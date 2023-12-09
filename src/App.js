@@ -14,6 +14,11 @@ const App = () => {
     setIsLampOn((prev) => !prev);
   };
 
+  const handleColorChange = (newColor) => {
+    console.log('New Color:', newColor);
+    setColor(newColor.hex);
+  };
+
   return (
     <div className="app-container">
       <button className='light-button' onClick={toggleLamp}>
@@ -35,7 +40,7 @@ const App = () => {
               />
             </label>
           </div>
-          <br />
+          
         </div>
       )}
 
