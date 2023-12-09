@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lamp_threeJS/static/css/main.43acd7fa.css",
+    "main.js": "/lamp_threeJS/static/js/main.3b37aab9.js",
+    "index.html": "/lamp_threeJS/index.html",
+    "main.43acd7fa.css.map": "/lamp_threeJS/static/css/main.43acd7fa.css.map",
+    "main.3b37aab9.js.map": "/lamp_threeJS/static/js/main.3b37aab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43acd7fa.css",
+    "static/js/main.3b37aab9.js"
+  ]
+}
